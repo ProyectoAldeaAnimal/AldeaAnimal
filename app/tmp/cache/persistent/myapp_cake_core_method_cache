@@ -1,0 +1,2 @@
+1416192935
+a:3:{i:0;b:0;s:4:"name";a:5:{s:32:"a33e61f870c52fb101aa159a22ad60b6";s:13:"`aldeaanimal`";s:32:"b7ceaf0b53e59edcb103a5a501272569";s:11:"`tipo_pres`";s:32:"a7c00d010e793c32f1cf8713a5383ce2";s:31:"`TipoPrestacion`.`ID_TIPO_PRES`";s:32:"c23fc805ba3ab17cf0dc64a3fd872510";s:35:"`TipoPrestacion`.`NOMBRE_TIPO_PRES`";s:32:"152c1e235153b1e81db6746123e64916";s:16:"`TipoPrestacion`";}s:6:"fields";a:1:{s:32:"bc577760dcfbd54817f6682c1b8cdb4b";a:2:{i:0;s:31:"`TipoPrestacion`.`ID_TIPO_PRES`";i:1;s:35:"`TipoPrestacion`.`NOMBRE_TIPO_PRES`";}}}
