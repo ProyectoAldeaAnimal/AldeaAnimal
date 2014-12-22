@@ -14,7 +14,11 @@ class AgendasController extends AppController {
  * @var array
  */
 	public $components = array('Paginator');
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
 /**
  * index method
  *

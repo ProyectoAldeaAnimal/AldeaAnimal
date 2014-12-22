@@ -183,6 +183,7 @@ array('controller' => 'users', 'action' => 'login')); ?>
 </div>
     
     <!--about start-->    
+<<<<<<< HEAD
   
         <div id="about"></div>
         <br><br>
@@ -205,6 +206,14 @@ array('controller' => 'users', 'action' => 'login')); ?>
       <div class="container">
         <div class="row Fresh">
           
+=======
+    
+    <div id="about">
+      <div class="lineAbout">
+      <div class="container">
+        <div class="row Fresh">
+          <div class="col-md-12 text-center" id="ex4"><img src="img/quienesSomos.png" alt="" class="img-responsive center-block"></div>
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
           <div class="col-md-4 Des">
             <i class="fa fa-heart"></i>
             <div class="contenido">

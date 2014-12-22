@@ -33,6 +33,7 @@
 			'type' => 'select',
 			'class' => 'form-control'
 			));
+<<<<<<< HEAD
 		?></fieldset>
 		<FONT COLOR="#FFFFFF">
 		<?php
@@ -46,6 +47,11 @@
 		?>
 		</FONT>
 	
+=======
+	?>
+	</fieldset>
+
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
 <?php
 	if($ofertaHors!='El veterinario no tiene oferta Horaria' ){
 		echo $this->Form->end(__('Solicitar')); 	
@@ -60,6 +66,7 @@
 		      </div>
 </div>
 
+<<<<<<< HEAD
 	<script>
  $(function() {
  	 $.datepicker.regional['es'] = {
@@ -88,3 +95,5 @@
 		});
   });
   </script>
+=======
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f

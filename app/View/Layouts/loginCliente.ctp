@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <? php echo $this->Html->docType('html5');?>
+=======
+<!DOCTYPE html>
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
 <html lang="en">
   <head>
       <?php echo $this->Html->charset(); ?>

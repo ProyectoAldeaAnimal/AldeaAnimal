@@ -25501,6 +25501,7 @@ Request URL: /AldeaAnimal/user/deshabilitado
 Stack Trace:
 #0 C:\xampp\htdocs\AldeaAnimal\app\webroot\index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+<<<<<<< HEAD
 2014-12-22 07:23:57 Error: [MissingControllerException] Controller class AldeaanimalController could not be found.
 Exception Attributes: array (
   'class' => 'AldeaanimalController',
@@ -26796,3 +26797,5 @@ Request URL: /AldeaAnimal/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png
 Stack Trace:
 #0 C:\xampp\htdocs\AldeaAnimal\app\webroot\index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+=======
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f

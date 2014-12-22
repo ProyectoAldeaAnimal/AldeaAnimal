@@ -25,9 +25,13 @@
         echo $this->Html-> script(array("bootstrap.min.js"));
         echo $this->Html-> script(array("ie10-viewport-bug-workaround.js"));
         echo $this->Html -> css(array("sweet-alert.css"));
+<<<<<<< HEAD
         echo $this->Html -> css(array("jquery-ui"));
         echo $this->Html-> script(array("sweet-alert.js"));
         echo $this->Html-> script(array("jquery-ui-1.8.4.custom.min"));
+=======
+        echo $this->Html-> script(array("sweet-alert.js"));
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
         echo $this->fetch('meta');
         echo $this->fetch('css');
         echo $this->fetch('script');
@@ -38,8 +42,12 @@
          text-decoration:none;   
         }   
         </style>
+<<<<<<< HEAD
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+=======
+
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
             <style type="text/css">
 
       /* Sticky footer styles

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1419265575
+=======
+1418028355
+>>>>>>> 1e3571fc14bea30522d993f9280f51746840295f
 a:6:{s:13:"ID_OFERTA_HOR";a:7:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;s:3:"key";s:7:"primary";s:7:"comment";s:53:"identificador ?nico para oferta horaria
             ";}s:6:"ID_CAL";a:7:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;s:3:"key";s:5:"index";s:7:"comment";s:50:"Identificador ?nico para el bloque del calendario.";}s:6:"ID_VET";a:6:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;s:3:"key";s:5:"index";}s:19:"ESTADO_AGENDAMIENTO";a:7:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:1;s:7:"collate";s:17:"latin1_swedish_ci";s:7:"comment";s:139:"Valor en caracteres que indica el estado del agendamiento.
             Este puede ser: 'A' por aceptado, 'R' por rechazado, 'L' por libre.";s:7:"charset";s:6:"latin1";}s:11:"HORA_INICIO";a:5:{s:4:"type";s:4:"time";s:4:"null";b:0;s:7:"default";N;s:6:"length";N;s:7:"comment";s:66:"Hora del calendario gen?rico para relacionarlo con un veterinario.";}s:12:"HORA_TERMINO";a:4:{s:4:"type";s:4:"time";s:4:"null";b:0;s:7:"default";N;s:6:"length";N;}}
